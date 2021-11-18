@@ -23,9 +23,7 @@ an E-commerce site
 
 To install necessary dependencies, run the following command:
 
-```
-undefined
-```
+npm install
 
 ## Usage
 
@@ -37,15 +35,13 @@ This project is licensed under the undefined license.
   
 ## Contributing
 
-undefined
+Mohammed Samod
 
 ## Tests
 
 To run tests, run the following command:
 
-```
-undefined
-```
+no need for a test
 
 ## Questions
 
